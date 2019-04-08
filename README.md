@@ -1,5 +1,5 @@
 # Self Study Project rtamhankar
-   Data Visualization Frameworks
+   Data Visualization Framework
 1. Big-picture considerations:
    The Visualization should include appropriate amount of data so that it is easy to understand.
    Too much of data may overload the reader with too much of information. The  visualizations with a little amount of data might
@@ -17,3 +17,5 @@
    visualizations.
 6. Design for mobile:
    If some of the users are mobile, the design should be compatible and suitable for different devices.
+
+   Reference: https://www.dummies.com/programming/big-data/big-data-visualization/evaluating-data-visualizations/
