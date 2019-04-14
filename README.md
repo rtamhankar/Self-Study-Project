@@ -41,6 +41,9 @@
 4.  ![The role of the greenhouse effect on the temperature change](https://19january2017snapshot.epa.gov/sites/production/files/styles/medium/public/2016-07/co2temp800kyrs-large.jpg)
 
 
+5.  ![Global temperature change interactive video](https://i.kinja-img.com/gawker-media/image/upload/s--ZF5o8OJd--/c_scale,fl_progressive,q_80,w_800/oo0q9awrmmsctypfh6yb.mp4)
+
+
 #Below visualization shows that climate change is not caused by human activity and it is caused due to Sun's energy
 
 5.  ![Climate change due to Sun’s energy](https://19january2017snapshot.epa.gov/sites/production/files/styles/medium/public/2016-07/sunsenergytemp-large.png)
