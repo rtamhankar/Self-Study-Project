@@ -1,4 +1,5 @@
-#install the lubridate and tidyverse libraries
+#Reference:https://dominicroye.github.io/en/2018/how-to-create-warming-stripes-in-r/
+#install lubridate and tidyverse libraries
 if(!require("lubridate")) install.packages("lubridate")
 if(!require("tidyverse")) install.packages("tidyverse")
 
